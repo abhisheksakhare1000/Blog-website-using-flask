@@ -14,8 +14,8 @@
     "about_text" : "Hi my name is abhishek sakhare and I belive learning should be done through projects. I like to make projects",
       "no_of_posts": 2,
     "login_image" : "login.svg",
-    "admin_user" : "harry",
-    "admin_password" : "subscribenow",
+    "admin_user" : "abhishek",
+    "admin_password" : "abhishek",
     "upload_location" : "C:\\Users\\Abhishek Sakhare\\PycharmProjects\\flask-tut\\static\\assets\\img"
 
   }
