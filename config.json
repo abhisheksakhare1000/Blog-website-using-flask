@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingt  hunder",
+    "fb_url": "https://m.facebook.com/abhisheksakhare1000/",
+    "tw_url": "https://twitter.com/abhisakhare1000",
+    "git_url":"https://github.com/abhisheksakhare1000",
+    "blog_name": "My blog",
+    "tag_line" : "A blog like by a programmers",
+    "gmail-user": "your_gmail",
+    "gmail-pass": "your_pass",
+    "about_text" : "Hi my name is abhishek sakhare and I belive learning should be done through projects. I like to make projects",
+      "no_of_posts": 2,
+    "login_image" : "login.svg",
+    "admin_user" : "harry",
+    "admin_password" : "subscribenow",
+    "upload_location" : "C:\\Users\\Abhishek Sakhare\\PycharmProjects\\flask-tut\\static\\assets\\img"
+
+  }
+
+}
